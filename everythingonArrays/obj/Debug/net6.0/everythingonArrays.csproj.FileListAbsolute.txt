@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/bin/Debug/net6.0/everythingonArrays
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/bin/Debug/net6.0/everythingonArrays.deps.json
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/bin/Debug/net6.0/everythingonArrays.runtimeconfig.json
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/bin/Debug/net6.0/everythingonArrays.dll
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/bin/Debug/net6.0/everythingonArrays.pdb
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.AssemblyInfo.cs
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.dll
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/refint/everythingonArrays.dll
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.pdb
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/everythingonArrays.genruntimeconfig.cache
+/Users/elijahamoako/Projects/everythingonArrays/everythingonArrays/obj/Debug/net6.0/ref/everythingonArrays.dll
